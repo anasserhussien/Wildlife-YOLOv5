@@ -1,0 +1,8 @@
+argparse 
+boto3
+botocore
+tqdm
+tensorboard
+torch==1.13.1+cu117 
+torchvision==0.14.1+cu117  
+--extra-index-url https://download.pytorch.org/whl/cu117
