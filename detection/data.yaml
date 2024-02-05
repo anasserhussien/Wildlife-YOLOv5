@@ -1,0 +1,11 @@
+path: ../datasets/processed_dataset_multi_objects
+
+train: train/
+val: val/
+test: test/
+
+# Classes
+names:
+  0: deer
+  1: horse
+  2: rabbit
